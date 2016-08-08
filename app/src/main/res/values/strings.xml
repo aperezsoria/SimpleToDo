@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Todo</string>
+    <string name="title_activity_edit_item">Edit Item</string>
+
+    //Actions
+    <string name="save">Save</string>
+
+    //Errors
+    <string name="add_item_value_required">You need to provide a value</string>
+</resources>
